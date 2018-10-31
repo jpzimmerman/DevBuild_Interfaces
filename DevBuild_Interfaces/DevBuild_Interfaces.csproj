@@ -43,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alligator.cs" />
+    <Compile Include="CountableAnimal.cs" />
+    <Compile Include="CountTestApp.cs" />
+    <Compile Include="CountUtil.cs" />
+    <Compile Include="ICountable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sheep.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
